@@ -1,4 +1,3 @@
-Код програми на Python:
 def caesar_shift(text, shift):
 # Incremental Caesar shift
 result = []
